@@ -1,0 +1,7 @@
+# Ignore personal Instagram data files
+*.json
+*.zip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
